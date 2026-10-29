@@ -1,13 +1,13 @@
 # Terminal Chatbot
 # A simple chat in the terminal using the Gemini API (free tier).
 # It remembers the conversation and keeps running when a request fails.
-#
+
 # Setup:
 #   1. pip install -U google-genai
 #   2. Create a key in Google AI Studio and save it in the GEMINI_API_KEY
 #      environment variable (never write the key in the code).
 #   3. Run: python chatbot.py
-#
+
 # Type "quit" or "exit" to leave.
 # Note: model names and SDK details change over time, so check the
 # official Gemini docs if something stops working.
